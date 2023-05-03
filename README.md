@@ -1,15 +1,13 @@
-# Airport-Management-
-
 # Aviation Database Project
 This project demonstrates the design, implementation, and management of a comprehensive aviation database, 
 including information on aircrafts, airlines, airports, countries, and their associated routes.
 
-# Key Features
+## Key Features
 Designed and implemented a robust database containing data on various aspects of the aviation industry.
 Utilized the Spring Framework to handle complex joins and views, simplifying database operations.
 Managed API endpoints using Postman, ensuring seamless data insertion and enhancing the system's reliability and functionality.
 
-# Technologies and Skills
+## Technologies and Skills
 Java: The project was developed using Java, showcasing strong programming proficiency.
 Database Design: The database was thoughtfully designed to accommodate a wide range of aviation-related data.
 Web Service Integration: API endpoints were expertly managed to facilitate seamless interaction with the database.
@@ -19,6 +17,16 @@ Postman: Used for managing API endpoints and ensuring smooth data insertion.
 # Getting Started
 To get started with this project, simply clone the repository and follow the instructions provided in the documentation to set up the database, 
 configure API endpoints, and integrate with the Spring Framework.
+
+## Reference Documentation
+For further reference, please consider the following sections:
+
+Official Apache Maven documentation (https://maven.apache.org/guides/index.html) <br>
+Spring Boot Maven Plugin Reference Guide (https://docs.spring.io/spring-boot/docs/3.0.5/maven-plugin/reference/htmlsingle/) <br>
+Create an OCI image (https://docs.spring.io/spring-boot/docs/3.0.5/maven-plugin/reference/htmlsingle/#build-image) <br>
+Spring Web (https://docs.spring.io/spring-boot/docs/3.0.5/reference/htmlsingle/#web) <br>
+Spring Data JPA (https://docs.spring.io/spring-boot/docs/3.0.5/reference/htmlsingle/#data.sql.jpa-and-spring-data)
+
 
 Please refer to the project documentation for detailed information on database design, API endpoint management, and any additional configuration necessary 
 to get the project up and running.
